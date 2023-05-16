@@ -64,7 +64,7 @@ The Jarvis AI Desktop Assistance Project can be expanded and enhanced in various
     d. Security and Privacy Enhancements: Implementing robust security measures and privacy features to protect user data and ensure safe interactions with Jarvis.
     
 ## Contributing
-To contribute, just for it and send me a message on my socials to add you as a contributer.
+To contribute, just fork it on github and send me a message on my socials to add you as a contributer.
 
 ## Conclusion
 The Jarvis AI Desktop Assistance Project, implemented using Python, aims to provide users with a comprehensive and interactive AI assistant. Through voice-controlled commands, program launching, website access, conversational interaction, and the integration of ChatGPT, Jarvis empowers users with a personalized, efficient, and intelligent desktop assistance experience.
