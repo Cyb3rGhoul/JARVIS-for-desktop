@@ -3,6 +3,11 @@ Jarvis AI Desktop Assistance Project with Python, and ChatGPT Integration
 
 ![Jarvis AI](https://www.linkpicture.com/q/687474703a2f2f692e696d6775722e636f6d2f785a38783945532e6a7067.jpeg)
 
+In order to install Jarvis, follow these steps:
+1. Clone [this repository](https://github.com/Cyb3rGhoul/JARVIS-for-desktop.git) with `https://github.com/Cyb3rGhoul/JARVIS-for-desktop.git`
+2. Run the command `python installer` (or `python3 installer` if that doesn't work) from the terminal.
+
+Run **Jarvis** from anywhere with your voice.
 
 1. Introduction:
 The Jarvis AI Desktop Assistance Project is an innovative software endeavor that aims to create a powerful and versatile AI assistant using Python. This project leverages cutting-edge technologies to develop a responsive system capable of executing a wide range of commands, including opening programs, accessing websites, engaging in conversations, providing date and time information, and integrating ChatGPT for voice-controlled interactions using the OpenAI API.
@@ -54,5 +59,8 @@ The Jarvis AI Desktop Assistance Project can be expanded and enhanced in various
     c. Integration with IoT Devices: Extending Jarvis's capabilities to control and interact with Internet of Things (IoT) devices, enabling users to control their smart home devices through voice commands.
 
     d. Security and Privacy Enhancements: Implementing robust security measures and privacy features to protect user data and ensure safe interactions with Jarvis.
+    
+## Contributing
+To contribute, just for it and send me a message on my socials to add you as a contributer.
 
 The Jarvis AI Desktop Assistance Project, implemented using Python, aims to provide users with a comprehensive and interactive AI assistant. Through voice-controlled commands, program launching, website access, conversational interaction, and the integration of ChatGPT, Jarvis empowers users with a personalized, efficient, and intelligent desktop assistance experience.
