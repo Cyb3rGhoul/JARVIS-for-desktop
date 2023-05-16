@@ -9,10 +9,13 @@ In order to install Jarvis, follow these steps:
 
 Run **Jarvis** from anywhere with your voice.
 
-1. Introduction:
+### Note:
+Make sure to Add your API key in the code.
+
+## Introduction:
 The Jarvis AI Desktop Assistance Project is an innovative software endeavor that aims to create a powerful and versatile AI assistant using Python. This project leverages cutting-edge technologies to develop a responsive system capable of executing a wide range of commands, including opening programs, accessing websites, engaging in conversations, providing date and time information, and integrating ChatGPT for voice-controlled interactions using the OpenAI API.
 
-2. Features:
+## Features:
 The Jarvis AI Desktop Assistance Project offers an array of features designed to enhance user experience and productivity. Key highlights include:
 
     a. Voice Command Recognition: Utilizing Python libraries like SpeechRecognition or PocketSphinx, the project enables accurate interpretation of voice commands, allowing users to interact with Jarvis through natural speech.
@@ -25,7 +28,7 @@ The Jarvis AI Desktop Assistance Project offers an array of features designed to
 
     e. Task Automation: Leveraging Python's automation capabilities, Jarvis can automate repetitive tasks such as sending emails, scheduling appointments, setting reminders, and more, optimizing user productivity.
 
-3. Technology Stack:
+## Technology Stack:
 The Jarvis AI Desktop Assistance Project utilizes the following technologies and libraries:
 
     a. Python: The primary programming language for developing the project, providing a versatile and flexible environment for coding and integration.
@@ -36,9 +39,9 @@ The Jarvis AI Desktop Assistance Project utilizes the following technologies and
 
     d. ChatGPT Integration: Integrating the OpenAI API to leverage ChatGPT for natural language processing and generating intelligent responses to user queries.
 
-    e. Automation Libraries: Utilizing Python's built-in libraries such as subprocess, os, or automation-specific libraries like pyautogui for task automation.
+    e. Automation Libraries: Utilizing Python's built-in libraries such as subprocess, os, automation-specific libraries like pyautogui for task automation.
 
-4. Benefits and Impact:
+## Benefits and Impact:
 The Jarvis AI Desktop Assistance Project offers several benefits and has a significant impact on user productivity and convenience:
 
     a. Streamlined User Experience: By providing a voice-controlled interface and automating tasks, Jarvis simplifies user interactions and saves time.
@@ -49,7 +52,7 @@ The Jarvis AI Desktop Assistance Project offers several benefits and has a signi
 
     d. Natural Language Understanding: The integration of ChatGPT enables Jarvis to understand and respond intelligently to user queries and requests, creating a more natural and conversational interaction.
 
-5. Future Scope:
+## Future Scope:
 The Jarvis AI Desktop Assistance Project can be expanded and enhanced in various ways, including:
 
     a. Natural Language Understanding: Continuously improving Jarvis's ability to understand complex user queries, including context, sentiment, and intent analysis.
@@ -63,4 +66,5 @@ The Jarvis AI Desktop Assistance Project can be expanded and enhanced in various
 ## Contributing
 To contribute, just for it and send me a message on my socials to add you as a contributer.
 
+## Conclusion
 The Jarvis AI Desktop Assistance Project, implemented using Python, aims to provide users with a comprehensive and interactive AI assistant. Through voice-controlled commands, program launching, website access, conversational interaction, and the integration of ChatGPT, Jarvis empowers users with a personalized, efficient, and intelligent desktop assistance experience.
