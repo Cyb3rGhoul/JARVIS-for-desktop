@@ -1,7 +1,7 @@
 # JARVIS For Desktop
 Jarvis AI Desktop Assistance Project with Python, and ChatGPT Integration
 
-![Jarvis AI](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fsukeesh%2FJarvis&psig=AOvVaw0HQarw7JU1E_owZm6VP8RS&ust=1684306426639000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCYud-m-f4CFQAAAAAdAAAAABAE)
+![Jarvis AI](https://www.linkpicture.com/q/687474703a2f2f692e696d6775722e636f6d2f785a38783945532e6a7067.jpeg)
 
 
 1. Introduction:
